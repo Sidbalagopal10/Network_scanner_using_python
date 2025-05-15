@@ -12,3 +12,5 @@ Key Code Highlights
 4)Formatted Output: The final print block displays a list of detected devices in a clear format.
 
 This code is ideal for basic network discovery and identifying active devices within a specific subnet.
+
+Note: Run with root privileges
